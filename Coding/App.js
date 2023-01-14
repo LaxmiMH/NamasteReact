@@ -27,7 +27,7 @@ const HeaderComponent = () => {
     </div>
   );
 };
-//config driven UI
+//Config driven UI
 const restaurantList = [
   {
     type: "restaurant",
